@@ -1,0 +1,22 @@
+{
+    "assigments": [
+        {
+            "id": 1,
+            "title": "Complete the Vue3 course",
+            "complete": false,
+            "tag": "math"
+        },
+        {
+            "id": 2,
+            "title": "Finish Assignment",
+            "complete": false,
+            "tag": "science"
+        },
+        {
+            "id": 3,
+            "title": "Done",
+            "complete": false,
+            "tag": "english"
+        }
+    ]
+}
